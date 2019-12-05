@@ -18,7 +18,7 @@ int main(void) {
           if (j <= (height - i)) {
               cout << " ";
           } else {
-              cout << "*";
+              cout << "#";
           }
       } cout << endl;
   }
